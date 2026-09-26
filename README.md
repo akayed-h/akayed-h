@@ -77,7 +77,14 @@ A web project centered around a **developer conference**, created as part of my 
 ---
 
 ## 📊 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akayed-h&hide_border=true" width="100%" alt="Akayed's contribution graph"> </div>
+
+<div align="center">
+
+<a href="https://github.com/akayed-h">
+  <img src="https://ghchart.rshah.org/akayed-h" alt="Akayed's contribution graph" width="100%">
+</a>
+
+</div>
 
 ---
 
