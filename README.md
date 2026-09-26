@@ -76,17 +76,28 @@ A web project centered around a **developer conference**, created as part of my 
 
 ---
 
-## 📊 Contribution Activity
+## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <a href="https://github.com/akayed-h">
-    <img
-      src="https://ghchart.rshah.org/2ea043/akayed-h"
-      alt="Akayed's GitHub contribution graph"
-      width="100%"
-    />
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akayed-h&show_icons=true&theme=dark" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akayed-h&layout=compact&theme=dark" width="48%" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=akayed-h&theme=dark" alt="Streak" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/akayed-h">
+  <img src="https://ghchart.rshah.org/akayed-h" alt="Akayed's contribution graph" width="100%">
+</a>
+
+</div>
 
 ---
 
