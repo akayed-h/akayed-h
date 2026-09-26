@@ -76,24 +76,8 @@ A web project centered around a **developer conference**, created as part of my 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akayed-h&show_icons=true&hide_border=true&cache_seconds=86400" height="165" alt="Akayed's GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akayed-h&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" height="165" alt="Akayed's Top Languages">
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akayed-h&hide_border=true&cache_seconds=86400" width="100%" alt="Akayed's contribution graph">
-
-</div>
+📊 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akayed-h&hide_border=true" width="100%" alt="Akayed's contribution graph"> </div>
 
 ---
 
