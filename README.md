@@ -28,7 +28,7 @@ I'm a **passionate learner** who enjoys exploring new technologies and turning i
 
 - 🎓 CSE student at East West University
 - 💻 Currently focused on **Web Development**
-- ⚛️ Currently learning **React**
+- ⚛️ Currently learning **Authentication**
 - 🧠 Interested in **LLMs and AI**
 - 🚀 Goal: Become a **Full-Stack Developer**
 - 🌱 Always learning, building, and improving
