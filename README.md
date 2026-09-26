@@ -76,15 +76,17 @@ A web project centered around a **developer conference**, created as part of my 
 
 ---
 
-## 📊 Contribution Graph
+## 📊 Contribution Activity
 
-<div align="center">
-
-<a href="https://github.com/akayed-h">
-  <img src="https://ghchart.rshah.org/akayed-h" alt="Akayed's contribution graph" width="100%">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/akayed-h">
+    <img
+      src="https://ghchart.rshah.org/2ea043/akayed-h"
+      alt="Akayed's GitHub contribution graph"
+      width="100%"
+    />
+  </a>
+</p>
 
 ---
 
