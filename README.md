@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner2.png" alt="Akayed Hossain — Frontend Developer" width="100%">
+<img src="./banner.png" alt="Akayed Hossain — Frontend Developer" width="100%">
 
 # Hi, I'm Akayed Hossain 👋
 
